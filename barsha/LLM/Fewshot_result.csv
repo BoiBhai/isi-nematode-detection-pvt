@@ -1,0 +1,37 @@
+image,true,predicted,raw_output
+Chaibasa_12_PP_2.tiff,Class0_Graminicola,graminicola,"match:Yes,
+species:graminicola,
+confidence:95,
+reason:The perineal pattern exhibits a low, flattened to broadly rounded dorsal arch with irregular and somewhat coarse striae. Distinct lateral lines are absent, with striae flowing continuously around the pattern. This morphology is highly characteristic of Meloidogyne graminicola and contrasts sharply with the high, often prominent dorsal arches and distinct lateral lines seen in M. incognita and M. javanica, respectively."
+Chaibasa_12_PP_2.tiff,Class0_Graminicola,graminicola,"match:Yes,
+species:graminicola,
+confidence:90,
+reason:The perineal pattern exhibits a low, rounded dorsal arch with relatively smooth and continuous striae, lacking distinct lateral lines. The striae around the vulva lips are also continuous and not highly irregular or broken. This morphology is consistent with *Meloidogyne graminicola* and differentiates it from the high, irregular arch of *M. incognita* and the prominent lateral lines of *M. javanica*."
+Chaibasa_71_PP_3.tiff,Class0_Graminicola,graminicola,"match:Yes,
+species:incognita,
+confidence:90,
+reason:The test image exhibits a high dorsal arch with highly irregular, wavy, and non-parallel striae, particularly in the dorsal region, resembling a ""fingerprint"" or ""brain-like"" pattern. There are no distinct, unbroken lateral lines. These characteristics are consistent with Meloidogyne incognita and differentiate it from the low arch of M. graminicola and the distinct lateral lines of M. javanica."
+Chaibasa_12_PP_2.tiff,Class0_Graminicola,graminicola,"match:Yes,
+species:graminicola,
+confidence:90,
+reason:The test image exhibits a relatively low and broad dorsal arch with generally wavy, continuous striae, particularly in the ventral region. There are no distinct lateral lines that would indicate M. javanica, nor the high, often irregular and broken striae characteristic of M. incognita. The overall pattern aligns well with the smoother, more rounded morphology of M. graminicola."
+Chaibasa_71_PP_3.tiff,Class0_Graminicola,graminicola,"match:Yes,
+species:javanica,
+confidence:95,
+reason:The perineal pattern clearly exhibits prominent lateral lines extending from the vulva region towards the dorsal arch, which is a key diagnostic feature of Meloidogyne javanica. The dorsal arch is also relatively low and rounded, consistent with M. javanica, in contrast to the generally higher and more variable arches of M. incognita and M. graminicola, which also lack distinct lateral lines."
+Chaibasa_1.tiff,Class0_Graminicola,graminicola,"match:Yes,
+species:graminicola,
+confidence:90,
+reason:The image displays a low, somewhat flattened dorsal arch, with indistinct lateral lines. The striae are wavy and irregular, appearing somewhat diffuse and broken, particularly in the dorsal region. This pattern, especially the low arch and lack of clear lateral lines, is highly characteristic of Meloidogyne graminicola compared to the higher arches and more defined lateral lines seen in incognita and javanica."
+Chaibasa_12_PP_1.tiff,Class0_Graminicola,graminicola,"match:Yes,
+species:graminicola,
+confidence:90,
+reason:The perineal pattern shows a low and rounded dorsal arch with somewhat wavy and irregular striae, particularly dorsally. Crucially, there are no distinct lateral lines or incisures, which differentiates it from *M. javanica*. The dorsal arch is not high, square, or markedly zigzagged as typically seen in *M. incognita*. The overall pattern is broadly oval to rounded, consistent with *M. graminicola*."
+Chaibasa_2_PP_2.tiff,Class0_Graminicola,graminicola,"match:Yes,
+species:graminicola,
+confidence:90,
+reason:The perineal pattern exhibits a low and rounded to slightly flattened dorsal arch with somewhat irregular and wavy striae. There are no distinct lateral lines or the high, chaotic fingerprint pattern characteristic of M. incognita, nor the prominent, often forked lateral lines of M. javanica. The overall pattern is relatively diffuse, consistent with Meloidogyne graminicola."
+Chaibasa_71_PP_2.tiff,Class0_Graminicola,graminicola,"match:Yes,
+species:graminicola,
+confidence:90,
+reason:The perineal pattern exhibits a low, rounded dorsal arch with somewhat wavy and irregular striae. Crucially, distinct lateral lines or ""wings"" are absent, which differentiates it from *M. javanica*. The dorsal arch is also not as high or chaotic as typically seen in *M. incognita*. These features are characteristic of *Meloidogyne graminicola*."
